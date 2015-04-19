@@ -1,0 +1,10 @@
+*********************************************
+*                  Timelines                *
+*********************************************
+
+To build Timelines application execute the following commands from the home directory of the project:
+
+mvn clean install
+mvn assembly:single
+
+timelines-all.jar file will be created in the 'target' directory.
